@@ -1,0 +1,26 @@
+{
+  "name": "nodeTest",
+  "version": "0.1",
+  "description": "Node.js Test",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "~4.9.x",
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrandenH/nodeTest"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
